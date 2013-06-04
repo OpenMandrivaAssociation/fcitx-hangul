@@ -27,6 +27,7 @@ Group: System/Internationalization
 BuildRequires: cmake
 BuildRequires: pkgconfig(fcitx)
 BuildRequires: pkgconfig(libhangul) >= 0.0.12
+BuildRequires: intltool
 
 %track
 prog %{name} = {
