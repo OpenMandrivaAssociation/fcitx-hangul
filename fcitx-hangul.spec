@@ -5,7 +5,7 @@ Name: fcitx-hangul
 Version: 0.2.1
 %if "%{beta}" == ""
 %if "%{scmrev}" == ""
-Release: 2
+Release: 3
 Source0: http://fcitx.googlecode.com/files/%{name}-%{version}.tar.xz
 %else
 Release: 0.%{scmrev}.1
