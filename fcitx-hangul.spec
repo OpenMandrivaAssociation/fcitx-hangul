@@ -11,13 +11,6 @@ BuildRequires: pkgconfig(fcitx)
 BuildRequires: pkgconfig(libhangul) >= 0.0.12
 BuildRequires: intltool
 
-%track
-prog %{name} = {
-	url = http://code.google.com/p/fcitx/downloads/list
-	regex = %name-(__VER__)\.tar\.xz
-	version = %{version}
-}
-
 %description
 Hangul (Korean IM) plugin for fcitx.
 
