@@ -1,7 +1,7 @@
 Summary: Hangul (Korean IM) plugin for fcitx
 Name: fcitx-hangul
 Version: 0.3.0
-Release: 2
+Release: 3
 Source0: http://fcitx.googlecode.com/files/%{name}-%{version}.tar.xz
 URL: http://fcitx.googlecode.com/
 License: GPLv2
