@@ -3,7 +3,7 @@ Name: fcitx-hangul
 Version: 0.3.0
 Release: 3
 Source0: http://fcitx.googlecode.com/files/%{name}-%{version}.tar.xz
-URL: http://fcitx.googlecode.com/
+URL: https://fcitx.googlecode.com/
 License: GPLv2
 Group: System/Internationalization
 BuildRequires: cmake
